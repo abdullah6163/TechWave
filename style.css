@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  background: #0f0823; 
+  color: white;          
+}
+.test-title {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.test-subtitle {
+  text-align: center;
+  margin-top: 10px;
+  opacity: 0.8;
+}
